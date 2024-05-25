@@ -1,0 +1,10 @@
+.site-title{
+    margin-top: 100px;
+    text-align: center;
+    color: indigo;
+    font-size: 40px;
+    line-height: 30px;
+    letter-spacing: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+}
